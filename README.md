@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-I am an enthusiastic developer with a passion for crafting efficient and scalable solutions. With a keen interest in **Script-Based Information Processing**, **Software Engineering**, and **Mobile Development**, I love turning complex problems into simple, beautiful, and intuitive solutions.
+I am an enthusiastic developer with a passion for crafting efficient and scalable solutions. With a keen interest in **Script-Based Information Processing**, **Software Engineering**, **Mobile Development**, and **Cyber Security**, I love turning complex problems into simple, beautiful, and intuitive solutions.
 
 - 🔭 Currently working on: 
   - A **web project** that focuses on managing profiles, web pages, and user interactions.
@@ -12,9 +12,10 @@ I am an enthusiastic developer with a passion for crafting efficient and scalabl
   - Running an online store called **Blox Fruit Store** where I sell high-quality gaming accounts.
 
 - 🎓 Studying **Information Systems** at **Universitas Pembangunan Jaya**.
+- 🛡️ Cyber Security enthusiast, always keen to learn more about protecting systems and data.
 
 - 🌱 Learning: 
-  - Deepening my knowledge of **software architecture**, **database management**, and **mobile-first design**.
+  - Deepening my knowledge of **software architecture**, **database management**, **mobile-first design**, and **cybersecurity principles**.
   
 - 🧑‍💻 Tech Stack: 
   - **Languages**: Python, JavaScript, SQL
@@ -34,6 +35,7 @@ I am an enthusiastic developer with a passion for crafting efficient and scalabl
 | **Mobile Development** | QPython3, SL4A                   |
 | **Database**       | MySQL, SQLite, PostgreSQL           |
 | **DevOps**         | Docker, Git, Linux                  |
+| **Cybersecurity**  | Basic Penetration Testing, Security Best Practices |
 
 ---
 
