@@ -11,6 +11,8 @@ I am an enthusiastic developer with a passion for crafting efficient and scalabl
   - A **mobile exam app** that allows for digital testing using QPython3 and Python SL4A.
   - Running an online store called **Blox Fruit Store** where I sell high-quality gaming accounts.
 
+- 🎓 Studying **Information Systems** at **Universitas Pembangunan Jaya**.
+
 - 🌱 Learning: 
   - Deepening my knowledge of **software architecture**, **database management**, and **mobile-first design**.
   
@@ -38,8 +40,8 @@ I am an enthusiastic developer with a passion for crafting efficient and scalabl
 ## 🌍 Let's Connect
 
 - 📫 Reach me via email at **andi.muhammadnauval@Student.upj.ac.id**.
-- 🌐 Check out my personal portfolio: [Soon).
-- 💬 Follow me on Instagram for updates: [Your Instagram](https://instagram.com/andimnrz).
+- 🌐 Check out my personal portfolio: (Soon).
+- 💬 Follow me on Instagram for updates: (https://instagram.com/andimnrz).
 
 Feel free to explore my repositories and contribute to projects I'm passionate about! I'm always open to learning and collaborating on exciting new ideas.
 
