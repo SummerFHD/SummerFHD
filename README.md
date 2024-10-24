@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/baecf2a3-5f38-48b5-91c2-a634b702ef37)# 👋 Hi there! Welcome to My GitHub Profile!
+# 👋 Hi there! Welcome to My GitHub Profile!
 
 ![Header](https://i.pinimg.com/736x/20/b9/30/20b930bf2eb9fabc176308501a7d1b9f.jpg) <!-- Ganti dengan URL banner kustom jika ada -->
 
