@@ -1,6 +1,6 @@
-# 👋 Hi there! Welcome to My GitHub Profile!
+![image](https://github.com/user-attachments/assets/baecf2a3-5f38-48b5-91c2-a634b702ef37)# 👋 Hi there! Welcome to My GitHub Profile!
 
-![Header](https://your-custom-banner-url.com/banner.png) <!-- Ganti dengan URL banner kustom jika ada -->
+![Header]([https://your-custom-banner-url.com/banner.png](https://fantasyandanime.wordpress.com/wp-content/uploads/2017/02/erased-anime-header-001-20151226.jpg)) <!-- Ganti dengan URL banner kustom jika ada -->
 
 ## 🚀 About Me
 
