@@ -42,7 +42,7 @@ I am an enthusiastic developer with a passion for crafting efficient and scalabl
 ## 🌍 Let's Connect
 
 - 📫 Reach me via email at **andi.muhammadnauval@Student.upj.ac.id**.
-- 🌐 Check out my personal portfolio: (Soon).
+- 🌐 Check out my Linkedin: (https://www.linkedin.com/in/andimnrz/).
 - 💬 Follow me on Instagram for updates: (https://instagram.com/andimnrz).
 
 Feel free to explore my repositories and contribute to projects I'm passionate about! I'm always open to learning and collaborating on exciting new ideas.
